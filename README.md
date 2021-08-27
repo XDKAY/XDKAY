@@ -2,7 +2,7 @@
 My name is *Alexander*.<br/>
 I'm a beginner Python developer.<br/>
 In the future, I want to become a *Data Scientist*.<br/>
-Interested in **programming**, **physics**, **mathematics** and **English**.
+Interested in **programming** 💻, **physics** ⚛️, **mathematics** and **English** 📝.
 
 
 #### I like
