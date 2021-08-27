@@ -1,23 +1,24 @@
-## Hi, I'm XDKAY.
+## 👋 Hi, I'm XDKAY.
 My name is *Alexander*.<br/>
 I'm a beginner Python developer.<br/>
+In the future, I want to become a *Data Scientist*.<br/>
 Interested in **programming**, **physics**, **mathematics** and **English**.
 
 
 #### I like
-* **Music:**
-    * Rock'n'Roll
-    * Punk Rock
+* 🎵 **Music:**
+    * 🎸 Rock'n'Roll
+    * 🎸 Punk Rock
     
-* **Books:**
-    * Scientific
-    * About Fiction
+* 📚 **Books:**
+    * 📖 Scientific
+    * 📘 About Fiction
     
-* **Puzzle:**
+* 🎲 **Puzzle:**
     * Rubik's Cube
     
-* Ride a skateboard
-#### Language
+* 🛹 Ride a skateboard
+#### Languages
 ![Python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python)
 
 #### Where can you find me
